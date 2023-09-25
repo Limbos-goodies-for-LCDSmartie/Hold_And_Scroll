@@ -1,0 +1,8 @@
+E:\Nextcloud\Development\LCD Smartie Plugins\holdnscroll\obj\x64\Debug\holdnscroll.vbproj.AssemblyReference.cache
+E:\Nextcloud\Development\LCD Smartie Plugins\holdnscroll\obj\x64\Debug\holdnscroll.vbproj.CoreCompileInputs.cache
+E:\Nextcloud\Development\LCD Smartie Plugins\holdnscroll\bin\x64\Debug\holdnscroll.dll
+E:\Nextcloud\Development\LCD Smartie Plugins\holdnscroll\bin\x64\Debug\holdnscroll.pdb
+E:\Nextcloud\Development\LCD Smartie Plugins\holdnscroll\bin\x64\Debug\holdnscroll.xml
+E:\Nextcloud\Development\LCD Smartie Plugins\holdnscroll\obj\x64\Debug\holdnscroll.dll
+E:\Nextcloud\Development\LCD Smartie Plugins\holdnscroll\obj\x64\Debug\holdnscroll.xml
+E:\Nextcloud\Development\LCD Smartie Plugins\holdnscroll\obj\x64\Debug\holdnscroll.pdb
